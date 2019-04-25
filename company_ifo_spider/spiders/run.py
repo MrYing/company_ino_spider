@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 from scrapy import cmdline
 
-cmdline.execute('scrapy crawl bafang_spider -a keyword=dashuju'.split())
+cmdline.execute('scrapy crawl bafang_spider -a keyword=rengongzhineng'.split())
